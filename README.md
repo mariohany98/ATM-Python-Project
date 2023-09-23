@@ -40,9 +40,11 @@ Logout: Safely log out of your account.
    git clone https://github.com/mariohany98/atm-python-project.git
 
 2. Change into the project directory:
+    ```bash
    cd atm-python-project
 
 3. Run the ATM program:
+   ```bash
    python atm.py
 
 ## Author
